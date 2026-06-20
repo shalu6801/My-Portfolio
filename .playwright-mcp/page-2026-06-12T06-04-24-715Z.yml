@@ -1,0 +1,381 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "shalu.dev" [ref=e4] [cursor=pointer]:
+        - /url: "#home"
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link "About" [ref=e7] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e8]:
+          - link "Skills" [ref=e9] [cursor=pointer]:
+            - /url: "#skills"
+        - listitem [ref=e10]:
+          - link "Experience" [ref=e11] [cursor=pointer]:
+            - /url: "#experience"
+        - listitem [ref=e12]:
+          - link "Projects" [ref=e13] [cursor=pointer]:
+            - /url: "#projects"
+        - listitem [ref=e14]:
+          - link "Education" [ref=e15] [cursor=pointer]:
+            - /url: "#education"
+        - listitem [ref=e16]:
+          - link "Contact" [ref=e17] [cursor=pointer]:
+            - /url: "#contact"
+  - generic [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e21]: Available for opportunities
+      - heading "Hi, I'm Shalu" [level=1] [ref=e23]
+      - paragraph [ref=e24]: Software |
+      - paragraph [ref=e25]: Software Developer & AI Enthusiast with hands-on experience in Python, Flask, SQL, and LLM post-training. Currently pursuing MCA at K.R. Mangalam University with a CGPA of 8.78. Building real-world AI-driven solutions.
+      - generic [ref=e26]:
+        - link " View My Work" [ref=e27] [cursor=pointer]:
+          - /url: "#projects"
+          - generic [ref=e28]: 
+          - text: View My Work
+        - link " Get In Touch" [ref=e29] [cursor=pointer]:
+          - /url: "#contact"
+          - generic [ref=e30]: 
+          - text: Get In Touch
+      - generic [ref=e31]:
+        - link "" [ref=e32] [cursor=pointer]:
+          - /url: mailto:shalubhardwaj410@gmail.com
+          - generic [ref=e33]: 
+        - link "" [ref=e34] [cursor=pointer]:
+          - /url: tel:+918950608132
+          - generic [ref=e35]: 
+        - link "" [ref=e36] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e37]: 
+        - link "" [ref=e38] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e39]: 
+    - generic [ref=e41]: scroll
+  - generic [ref=e44]:
+    - generic [ref=e45]: About Me
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - heading "Software Developer & AI Enthusiast" [level=2] [ref=e48]:
+          - text: Software Developer &
+          - text: AI Enthusiast
+        - paragraph [ref=e49]: I'm a passionate software developer currently pursuing my Master of Computer Applications at K.R. Mangalam University, maintaining a stellar CGPA of 8.78 and earning the Dean's Honour Certificate twice.
+        - paragraph [ref=e50]: My expertise spans Python development, AI/LLM evaluation, and data visualization with Tableau. I currently work as an LLM Post-Training Intern at Ethara AI, where I evaluate and improve AI model outputs.
+        - paragraph [ref=e51]: I love building solutions that merge software engineering with AI. My interests lie in Data Science, NLP, and creating impactful applications that solve real-world problems.
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e54]: 6+
+            - generic [ref=e55]: Projects Built
+          - generic [ref=e56]:
+            - generic [ref=e57]: "3"
+            - generic [ref=e58]: Internship Offers
+          - generic [ref=e59]:
+            - generic [ref=e60]: "8.78"
+            - generic [ref=e61]: Current CGPA
+          - generic [ref=e62]:
+            - generic [ref=e63]: 3+
+            - generic [ref=e64]: Certifications
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]:
+            - generic [ref=e69]: 
+            - generic [ref=e70]: Location
+          - generic [ref=e71]: Palwal, Haryana, India
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e75]: 
+            - generic [ref=e76]: Current Role
+          - generic [ref=e77]: LLM Post-Training Intern at Ethara AI — Feb 2026 to Present
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - generic [ref=e81]: 
+            - generic [ref=e82]: Education
+          - generic [ref=e83]:
+            - text: MCA (Pursuing) — K.R. Mangalam University
+            - text: B.Com Comp. Application — MDU (CGPA 8.4)
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - generic [ref=e87]: 
+            - generic [ref=e88]: Interests
+          - generic [ref=e89]: Data Science · Software Development · AI Research · LLM Evaluation
+  - generic [ref=e91]:
+    - generic [ref=e92]: Technical Skills
+    - heading "My Tech Stack" [level=2] [ref=e93]
+    - paragraph [ref=e94]: Technologies and tools I work with to build powerful solutions.
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - generic [ref=e97]:
+          - generic [ref=e99]: 
+          - generic [ref=e100]: Programming Languages
+        - generic [ref=e101]:
+          - generic [ref=e102]: Python
+          - generic [ref=e103]: C
+          - generic [ref=e104]: SQL
+          - generic [ref=e105]: TypeScript
+          - generic [ref=e106]: JavaScript
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e110]: 
+          - generic [ref=e111]: Web Technologies
+        - generic [ref=e112]:
+          - generic [ref=e113]: HTML
+          - generic [ref=e114]: CSS
+          - generic [ref=e115]: Flask
+          - generic [ref=e116]: React
+          - generic [ref=e117]: Node.js
+      - generic [ref=e118]:
+        - generic [ref=e119]:
+          - generic [ref=e121]: 
+          - generic [ref=e122]: Databases
+        - generic [ref=e123]:
+          - generic [ref=e124]: MySQL
+          - generic [ref=e125]: Supabase
+          - generic [ref=e126]: SQL Queries
+      - generic [ref=e127]:
+        - generic [ref=e128]:
+          - generic [ref=e130]: 
+          - generic [ref=e131]: AI & Machine Learning
+        - generic [ref=e132]:
+          - generic [ref=e133]: LLM Evaluation
+          - generic [ref=e134]: Prompt Engineering
+          - generic [ref=e135]: Annotation
+          - generic [ref=e136]: NLP
+          - generic [ref=e137]: OpenAI API
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - generic [ref=e141]: 
+          - generic [ref=e142]: Data Visualization
+        - generic [ref=e143]:
+          - generic [ref=e144]: Tableau
+          - generic [ref=e145]: Data Analysis
+          - generic [ref=e146]: Statistics
+          - generic [ref=e147]: ML
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e151]: 
+          - generic [ref=e152]: Tools & Platforms
+        - generic [ref=e153]:
+          - generic [ref=e154]: Jupyter Notebook
+          - generic [ref=e155]: VS Code
+          - generic [ref=e156]: Spyder
+          - generic [ref=e157]: Vercel
+          - generic [ref=e158]: Render
+  - generic [ref=e160]:
+    - generic [ref=e161]: Work Experience
+    - heading "Where I've Worked" [level=2] [ref=e162]
+    - paragraph [ref=e163]: Professional experience that shaped my skills and perspective.
+    - generic [ref=e164]:
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - generic [ref=e169]: LLM Post-Training Intern
+          - generic [ref=e170]: Feb 2026 – Present
+        - generic [ref=e171]: Ethara AI
+        - list [ref=e172]:
+          - listitem [ref=e173]: ▸ Working on post-training of Large Language Models by evaluating and improving AI-generated responses.
+          - listitem [ref=e174]: ▸ Created structured annotation workflows and evaluation rubrics to assess model outputs for quality and accuracy.
+          - listitem [ref=e175]: ▸ Performed prompt analysis and response comparison to improve coherence, accuracy, and relevance.
+          - listitem [ref=e176]: ▸ Identified hallucinations, bias, and inconsistencies in AI responses and provided corrective feedback.
+          - listitem [ref=e177]: ▸ Contributed to real-world conversational AI scenarios and iterative model improvement cycles.
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - generic [ref=e182]: Software Developer Engineer Intern
+          - generic [ref=e183]: Offer — Dec 2025
+        - generic [ref=e184]: BLUESTOCK
+        - list [ref=e185]:
+          - listitem [ref=e186]: ▸ Received offer letter for the position of Software Developer Engineer Intern at BLUESTOCK.
+  - generic [ref=e188]:
+    - generic [ref=e189]: Projects
+    - heading "What I've Built" [level=2] [ref=e190]
+    - paragraph [ref=e191]: A collection of projects showcasing my skills in AI, web development, and data visualization.
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - generic [ref=e196]: 
+          - generic [ref=e197]:
+            - link "" [ref=e198] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e199]: 
+            - link "" [ref=e200] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e201]: 
+        - generic [ref=e202]: AI Resume Analysis & Job Matching
+        - generic [ref=e203]: An intelligent system that analyzes resumes and matches candidates to relevant jobs using NLP and AI. Fully deployed with Supabase backend.
+        - generic [ref=e204]:
+          - generic [ref=e205]: TypeScript
+          - generic [ref=e206]: OpenAI
+          - generic [ref=e207]: Supabase
+          - generic [ref=e208]: NLP
+          - generic [ref=e209]: Vercel
+      - generic [ref=e210]:
+        - generic [ref=e211]:
+          - generic [ref=e213]: 
+          - link "" [ref=e215] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e216]: 
+        - generic [ref=e217]: Crop Analysis of Indian States
+        - generic [ref=e218]: Comprehensive analysis of crop production across Indian states using Python, SQL, Tableau, and ML for pattern recognition and strategic insights.
+        - generic [ref=e219]:
+          - generic [ref=e220]: Python
+          - generic [ref=e221]: SQL
+          - generic [ref=e222]: Tableau
+          - generic [ref=e223]: ML
+          - generic [ref=e224]: Statistics
+      - generic [ref=e225]:
+        - generic [ref=e226]:
+          - generic [ref=e228]: 
+          - link "" [ref=e230] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e231]: 
+        - generic [ref=e232]: Portfolio Website
+        - generic [ref=e233]: A personal portfolio built with React and Node.js showcasing projects, skills, and professional journey with a modern, responsive design.
+        - generic [ref=e234]:
+          - generic [ref=e235]: React
+          - generic [ref=e236]: Node.js
+          - generic [ref=e237]: JavaScript
+          - generic [ref=e238]: CSS
+      - generic [ref=e239]:
+        - generic [ref=e240]:
+          - generic [ref=e242]: 
+          - link "" [ref=e244] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e245]: 
+        - generic [ref=e246]: Library Management System
+        - generic [ref=e247]: Full-stack library management system with Python and Flask — book tracking, member management, issue/return workflows backed by SQL.
+        - generic [ref=e248]:
+          - generic [ref=e249]: Python
+          - generic [ref=e250]: Flask
+          - generic [ref=e251]: MySQL
+          - generic [ref=e252]: SQL
+      - generic [ref=e253]:
+        - generic [ref=e254]:
+          - generic [ref=e256]: 
+          - link "" [ref=e258] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e259]: 
+        - generic [ref=e260]: Mobile Sales Visualization
+        - generic [ref=e261]: Interactive Tableau dashboard visualizing mobile device sales data with trend analysis, regional breakdowns, and actionable market insights.
+        - generic [ref=e262]:
+          - generic [ref=e263]: Tableau
+          - generic [ref=e264]: Data Viz
+          - generic [ref=e265]: Analytics
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e269]: 
+          - link "" [ref=e271] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e272]: 
+        - generic [ref=e273]: Titanic Data Visualization
+        - generic [ref=e274]: Exploratory data analysis and Tableau visualization of the Titanic dataset revealing survival patterns, demographic insights, and key statistics.
+        - generic [ref=e275]:
+          - generic [ref=e276]: Tableau
+          - generic [ref=e277]: EDA
+          - generic [ref=e278]: Statistics
+  - generic [ref=e280]:
+    - generic [ref=e281]: Education
+    - heading "Academic Journey" [level=2] [ref=e282]
+    - paragraph [ref=e283]: Strong academic foundation with consistent top performance.
+    - generic [ref=e284]:
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - generic [ref=e287]: 
+          - text: Currently Pursuing
+        - generic [ref=e288]: Master of Computer Application
+        - generic [ref=e289]: K.R. Mangalam University
+        - generic [ref=e290]: Aug 2024 – May 2026
+        - generic [ref=e293]: 8.78 / 10
+      - generic [ref=e294]:
+        - generic [ref=e295]:
+          - generic [ref=e296]: 
+          - text: Completed
+        - generic [ref=e297]: B.Com Computer Application
+        - generic [ref=e298]: Maharshi Dayanand University
+        - generic [ref=e299]: Aug 2021 – May 2024
+        - generic [ref=e302]: 8.4 / 10
+  - generic [ref=e304]:
+    - generic [ref=e305]: Recognition
+    - heading "Awards & Achievements" [level=2] [ref=e306]
+    - paragraph [ref=e307]: Recognition, certifications, and milestones that mark my journey.
+    - generic [ref=e308]:
+      - generic [ref=e309]:
+        - generic [ref=e311]: 
+        - generic [ref=e312]:
+          - heading "Academic Excellence Award" [level=4] [ref=e313]
+          - paragraph [ref=e314]: Awarded the Academic Excellence Award in 2024 for outstanding academic performance.
+      - generic [ref=e315]:
+        - generic [ref=e317]: 
+        - generic [ref=e318]:
+          - heading "Dean's Honour Certificate × 2" [level=4] [ref=e319]
+          - paragraph [ref=e320]: Received Dean's Honour Certificate at K.R. Mangalam University twice for exceptional achievement.
+      - generic [ref=e321]:
+        - generic [ref=e323]: 
+        - generic [ref=e324]:
+          - heading "University Rank Holder" [level=4] [ref=e325]
+          - paragraph [ref=e326]: Maintained top university rank across all semesters throughout graduation at MDU.
+      - generic [ref=e327]:
+        - generic [ref=e329]: 
+        - generic [ref=e330]:
+          - heading "Data Science Certification" [level=4] [ref=e331]
+          - paragraph [ref=e332]: Completed comprehensive Data Science certification program in 2025.
+      - generic [ref=e333]:
+        - generic [ref=e335]: 
+        - generic [ref=e336]:
+          - heading "Web Dev & AI Integration" [level=4] [ref=e337]
+          - paragraph [ref=e338]: Certification from TechSphere Workshop covering Web Development and AI Integration.
+      - generic [ref=e339]:
+        - generic [ref=e341]: 
+        - generic [ref=e342]:
+          - heading "Hackathon Participant" [level=4] [ref=e343]
+          - paragraph [ref=e344]: Participated in a competitive hackathon in 2024, demonstrating rapid problem-solving skills.
+  - generic [ref=e346]:
+    - generic [ref=e347]: Get In Touch
+    - generic [ref=e348]:
+      - generic [ref=e349]:
+        - heading "Let's Work Together" [level=3] [ref=e350]
+        - paragraph [ref=e351]: I'm open to full-time roles, internships, and interesting project collaborations. If you have an opportunity or just want to connect — my inbox is always open.
+        - generic [ref=e352]:
+          - generic [ref=e353]:
+            - generic [ref=e355]: 
+            - generic [ref=e356]:
+              - generic [ref=e357]: Email
+              - link "shalubhardwaj410@gmail.com" [ref=e359] [cursor=pointer]:
+                - /url: mailto:shalubhardwaj410@gmail.com
+          - generic [ref=e360]:
+            - generic [ref=e362]: 
+            - generic [ref=e363]:
+              - generic [ref=e364]: Phone
+              - link "+91 89506 08132" [ref=e366] [cursor=pointer]:
+                - /url: tel:+918950608132
+          - generic [ref=e367]:
+            - generic [ref=e369]: 
+            - generic [ref=e370]:
+              - generic [ref=e371]: Location
+              - generic [ref=e372]: Palwal, Haryana, India
+          - generic [ref=e373]:
+            - generic [ref=e375]: 
+            - generic [ref=e376]:
+              - generic [ref=e377]: LinkedIn
+              - link "Connect with me" [ref=e379] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e380]:
+            - generic [ref=e382]: 
+            - generic [ref=e383]:
+              - generic [ref=e384]: GitHub
+              - link "View my repositories" [ref=e386] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e388]:
+        - generic [ref=e389]:
+          - generic [ref=e390]: Your Name
+          - textbox "Jane Smith" [ref=e391]
+        - generic [ref=e392]:
+          - generic [ref=e393]: Email Address
+          - textbox "jane@company.com" [ref=e394]
+        - generic [ref=e395]:
+          - generic [ref=e396]: Subject
+          - textbox "Job opportunity / collaboration..." [ref=e397]
+        - generic [ref=e398]:
+          - generic [ref=e399]: Message
+          - textbox "Tell me about your project or opportunity..." [ref=e400]
+        - button " Send Message" [ref=e401] [cursor=pointer]:
+          - generic [ref=e402]: 
+          - text: Send Message
+  - contentinfo [ref=e403]:
+    - paragraph [ref=e405]: Designed & Built with ♥ by Shalu · 2026
